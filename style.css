@@ -12,6 +12,7 @@
     margin:0px;
     box-sizing: border-box;
     font-family: Sailec;
+    
 
 }
 html {
@@ -64,6 +65,7 @@ body {
     background-color:black;
 }
 .menu-btn.clicked .burger-btn{
+    background: black;
     background: black;
     
 }
